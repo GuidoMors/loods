@@ -1,0 +1,4 @@
+animations between locations
+animations for opening a picture
+outlines of clickable frames
+the background boundaries outside of the frame which are a foggy background of the picture
